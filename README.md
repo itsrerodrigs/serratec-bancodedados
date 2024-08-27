@@ -16,9 +16,9 @@ _O sistema de Ecommerce Tradicional implementado permite:_
 - **Informações sobre Produtos**: O sistema é capaz de armazenar as seguintes informações sobre os produtos da empresa: código, nome, descrição, quantidade em estoque, data de fabricação, valor unitário.
 - **Cadastro e Atualização de Produtos**: Ao cadastrar um produto no sistema, os funcionários da empresa devem ser capazes de: <br> Associá-lo a uma categoria, considerando que cada produto só poderá pertencer a uma categoria; <br> Atualizar a quantidade de itens no estoque. Se o produto já estiver cadastrado no sistema, o colaborador deverá apenas atualizar a quantidade de itens no estoque.
 - **Informações sobre Categorias de Produtos**: Para cada categoria de produto, é necessário registrar: código, nome e descrição.
-- **Informações sobre Clientes** <br> O sistema deverá armazenar os seguintes dados dos clientes: código, nome completo, nome de usuário, e-mail, CPF, data de nascimento, endereço completo. 
+- **Informações sobre Clientes**: O sistema deverá armazenar os seguintes dados dos clientes: código, nome completo, nome de usuário, e-mail, CPF, data de nascimento, endereço completo. 
 - **Realização de Pedidos**: Através do sistema, os clientes podem realizar pedidos. Cada pedido deve conter: um ou mais produtos; data em que foi realizado; por quem foi realizado; quantidade de cada item, considerando que um pedido pode ter mais de um item de um mesmo produto, de acordo com a quantidade disponível em estoque.
-- **Informações sobre Funcionários** <br> Sobre os funcionários, é necessário guardar apenas: código, nome, CPF e nome de usuário. 
+- **Informações sobre Funcionários**: Sobre os funcionários, é necessário guardar apenas: código, nome, CPF e nome de usuário. 
 
 ### Como executar
 `1.` Clone o repositório em sua máquina. <br>
