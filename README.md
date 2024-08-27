@@ -6,6 +6,10 @@
 
 A proposta é desenvolver um sistema de ecommerce tradicional que consiga apresentar: cadastro de funcionários, clientes, produtos e categoria, atualização e estoque, criação de pedido e emissão de nota fiscal. 
 
+## Diagrama de Entidade e Relacionamento (DER)
+
+Antes de iniciar a construção das tabelas no PgAdmin4, foi necessário criar um primeiro diagrama ER para mapeamento de todas as tabelas necessárias para o projeto. Após essa etapa, realizamos a normalização das tabelas e o resultado está disponível via Whimsical. [Confira aqui o DER do projeto!](https://whimsical.com/projeto-bancodados-grupo6-HacpwNU2uigcWW8sVjEKCr)
+
 ## Funcionaliades do Projeto
 _O sistema de Ecommerce Tradicional implementado permite:_
 
